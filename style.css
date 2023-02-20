@@ -108,6 +108,7 @@ section#projects > * {
 
 .project-tile img {
   width: 35rem;
+  color: #d21e39;
 }
 
 section#projects > h2 {
